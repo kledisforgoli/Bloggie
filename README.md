@@ -47,5 +47,14 @@ https://github.com/user-attachments/assets/7a77749d-e54b-4c02-94a9-b7eae3922a27
 #### Delete Blog
 ![Delete Blog Post](https://github.com/user-attachments/assets/48195d2d-ccd4-45d2-ab31-d5a2e9fd6239)
 
+#### Comment on a blog post
+![Add commend](https://github.com/user-attachments/assets/973c7254-d266-44b0-81e5-552bb8a2468d)
 
 
+### Users
+
+#### Users list
+![users list](https://github.com/user-attachments/assets/4d8f4746-d919-4c99-97d9-b3c915836b35)
+
+#### Create user
+![create new user](https://github.com/user-attachments/assets/530a8384-a785-479e-bd4f-81e4079f16c0)
