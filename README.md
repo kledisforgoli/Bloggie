@@ -2,7 +2,7 @@
 A blog post management platform, written in .NET Core, SQL Server, Entity Framework Core, Bootstrap, HTML + CSS.
 Admins can CRUD tags, blog posts and users. Normal users can see blog posts, commend and like them.
 
-https://github.com/user-attachments/assets/7a77749d-e54b-4c02-94a9-b7eae3922a27
+[Demo Video](https://github.com/user-attachments/assets/7a77749d-e54b-4c02-94a9-b7eae3922a27)
 
 
 
